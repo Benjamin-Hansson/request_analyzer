@@ -1,0 +1,1888 @@
+{
+      "Furaffinity": {
+            "externalRequests": {
+                  "amount": 9,
+                  "data": {
+                        "adspsp": 3,
+                        "google": 2,
+                        "doubleclick": 1,
+                        "furaffinity": 19,
+                        "facdn": 111,
+                        "googletagservices": 1,
+                        "quantserve": 2,
+                        "quantcount": 2,
+                        "amazon-adsystem": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 7,
+                  "data": {
+                        "adspsp": 3,
+                        "doubleclick": 1,
+                        "furaffinity": 8,
+                        "facdn": 111,
+                        "googletagservices": 1,
+                        "quantserve": 2,
+                        "quantcount": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "quantserve": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "quantserve": 2,
+                        "google": 2
+                  }
+            }
+      },
+      "Chaturbate": {
+            "externalRequests": {
+                  "amount": 5,
+                  "data": {
+                        "chaturbate": 3,
+                        "firefox": 1,
+                        "google": 1,
+                        "exoticads": 1,
+                        "highwebmedia": 102
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "google": 4,
+                        "chaturbate": 4,
+                        "google-analytics": 2,
+                        "gstatic": 2,
+                        "highwebmedia": 122
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 4
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 1
+                  }
+            }
+      },
+      "Cams": {
+            "externalRequests": {
+                  "amount": 7,
+                  "data": {
+                        "prodperfect": 1,
+                        "cams": 12,
+                        "google": 1,
+                        "twitter": 6,
+                        "gstatic": 1,
+                        "securedataimages": 152,
+                        "googletagmanager": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 7,
+                  "data": {
+                        "prodperfect": 1,
+                        "cams": 13,
+                        "google": 1,
+                        "twitter": 6,
+                        "gstatic": 1,
+                        "securedataimages": 153,
+                        "googletagmanager": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "cams": 13,
+                        "google": 1,
+                        "twitter": 6
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "cams": 12,
+                        "google": 1,
+                        "twitter": 6
+                  }
+            }
+      },
+      "Fetlife": {
+            "externalRequests": {
+                  "amount": 1,
+                  "data": {
+                        "fetlife": 9
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "fetlife": 9
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Mrskin": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "rtmark": 1,
+                        "datadbs": 1,
+                        "exoclick": 2,
+                        "doubleclick": 1,
+                        "amplitude": 1,
+                        "google-analytics": 3,
+                        "mrskincdn": 47,
+                        "skassets": 1,
+                        "mrskin": 6,
+                        "remarketingpixel": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 10,
+                  "data": {
+                        "rtmark": 1,
+                        "datadbs": 1,
+                        "exoclick": 2,
+                        "doubleclick": 1,
+                        "amplitude": 1,
+                        "google-analytics": 3,
+                        "mrskincdn": 48,
+                        "skassets": 1,
+                        "mrskin": 7,
+                        "remarketingpixel": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "exoclick": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "exoclick": 2
+                  }
+            }
+      },
+      "Planetsuzy": {
+            "externalRequests": {
+                  "amount": 11,
+                  "data": {
+                        "fscache": 21,
+                        "google-analytics": 2,
+                        "yahooapis": 2,
+                        "facebook": 2,
+                        "planetsuzy": 7,
+                        "amazonaws": 1,
+                        "ato": 13,
+                        "exosrv": 10,
+                        "jquery": 1,
+                        "theporndude": 2,
+                        "fbcdn": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 8,
+                  "data": {
+                        "google-analytics": 2,
+                        "yahooapis": 2,
+                        "planetsuzy": 6,
+                        "facebook": 2,
+                        "amazonaws": 1,
+                        "fscache": 21,
+                        "jquery": 1,
+                        "fbcdn": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "facebook": 2,
+                        "amazonaws": 1,
+                        "fbcdn": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 5,
+                  "data": {
+                        "facebook": 2,
+                        "amazonaws": 1,
+                        "ato": 13,
+                        "exosrv": 10,
+                        "fbcdn": 1
+                  }
+            }
+      },
+      "Luscious": {
+            "externalRequests": {
+                  "amount": 7,
+                  "data": {
+                        "browser-update": 3,
+                        "google-analytics": 1,
+                        "exoclick": 2,
+                        "gstatic": 2,
+                        "luscious": 229,
+                        "adnium": 2,
+                        "googleapis": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 7,
+                  "data": {
+                        "browser-update": 3,
+                        "google-analytics": 1,
+                        "googleapis": 2,
+                        "gstatic": 2,
+                        "luscious": 230,
+                        "digicert": 1,
+                        "exoclick": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "browser-update": 3,
+                        "exoclick": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "browser-update": 3,
+                        "exoclick": 2,
+                        "adnium": 2
+                  }
+            }
+      },
+      "Literotica": {
+            "externalRequests": {
+                  "amount": 1,
+                  "data": {
+                        "literotica": 10
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "literotica": 10
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Youporn": {
+            "externalRequests": {
+                  "amount": 7,
+                  "data": {
+                        "google-analytics": 2,
+                        "youporn": 5,
+                        "doubleclick": 1,
+                        "phncdn": 7,
+                        "trafficjunky": 8,
+                        "icfcdn": 1,
+                        "ypncdn": 15
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "phncdn": 5,
+                        "trafficjunky": 1,
+                        "icfcdn": 1,
+                        "youporn": 3,
+                        "ypncdn": 13
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Hentai2read": {
+            "externalRequests": {
+                  "amount": 9,
+                  "data": {
+                        "hentai2read": 10,
+                        "hentaicdn": 58,
+                        "googletagmanager": 1,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 7,
+                        "ang-content": 1,
+                        "cloudflare": 2,
+                        "adtng": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "hentai2read": 9,
+                        "hentaicdn": 60,
+                        "googletagmanager": 1,
+                        "googleapis": 1,
+                        "gstatic": 7,
+                        "cloudflare": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Gayboystube": {
+            "externalRequests": {
+                  "amount": 15,
+                  "data": {
+                        "google-analytics": 3,
+                        "doubleclick": 1,
+                        "alexametrics": 1,
+                        "hdpreview": 2,
+                        "gayboystube": 95,
+                        "cloudfront": 1,
+                        "adglare": 3,
+                        "googletagmanager": 1,
+                        "google": 3,
+                        "googleapis": 2,
+                        "gstatic": 5,
+                        "medleyads": 3,
+                        "squren": 4,
+                        "securedataimages": 1,
+                        "banclip": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 9,
+                  "data": {
+                        "doubleclick": 1,
+                        "googletagmanager": 1,
+                        "google": 3,
+                        "googleapis": 2,
+                        "gstatic": 5,
+                        "google-analytics": 2,
+                        "gayboystube": 95,
+                        "alexametrics": 1,
+                        "cloudfront": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 3
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "adglare": 3,
+                        "google": 3
+                  }
+            }
+      },
+      "Squirt": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "squirt": 19,
+                        "bing": 2,
+                        "googletagmanager": 1,
+                        "google-analytics": 3,
+                        "googleapis": 2,
+                        "doubleclick": 2,
+                        "gstatic": 2,
+                        "bootstrapcdn": 2,
+                        "digitaladsystems": 1,
+                        "exoclick": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "googletagmanager": 1,
+                        "squirt": 19,
+                        "googleapis": 2,
+                        "gstatic": 2,
+                        "bootstrapcdn": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "bing": 2,
+                        "exoclick": 1
+                  }
+            }
+      },
+      "4chan": {
+            "externalRequests": {
+                  "amount": 2,
+                  "data": {
+                        "4cdn": 13,
+                        "google-analytics": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "4cdn": 15,
+                        "google-analytics": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Adultfriendfinder": {
+            "externalRequests": {
+                  "amount": 5,
+                  "data": {
+                        "securedataimages": 33,
+                        "godaddy": 1,
+                        "google": 6,
+                        "adultfriendfinder": 10,
+                        "gstatic": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "securedataimages": 33,
+                        "godaddy": 1,
+                        "google": 6,
+                        "adultfriendfinder": 10,
+                        "gstatic": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "godaddy": 1,
+                        "google": 6,
+                        "adultfriendfinder": 10
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "godaddy": 1,
+                        "google": 6,
+                        "adultfriendfinder": 10
+                  }
+            }
+      },
+      "Spankwire": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "soska": 1,
+                        "google-analytics": 2,
+                        "doubleclick": 1,
+                        "gstatic": 2,
+                        "spankwire": 7,
+                        "adsession": 2,
+                        "trafficjunky": 2,
+                        "sexad": 1,
+                        "jquery": 1,
+                        "spankcdn": 27
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "soska": 1,
+                        "google-analytics": 2,
+                        "doubleclick": 1,
+                        "gstatic": 2,
+                        "spankwire": 4,
+                        "spankcdn": 27
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Porn": {
+            "externalRequests": {
+                  "amount": 5,
+                  "data": {
+                        "googletagmanager": 1,
+                        "porn": 59,
+                        "google-analytics": 2,
+                        "impressionmonster": 1,
+                        "gstatic": 3
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "googletagmanager": 1,
+                        "porn": 55,
+                        "gstatic": 3
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Celebritymoviearchive": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "google-analytics": 2,
+                        "celebritymoviearchive": 20,
+                        "googleapis": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "google-analytics": 2,
+                        "celebritymoviearchive": 20,
+                        "googleapis": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Inkbunny": {
+            "externalRequests": {
+                  "amount": 2,
+                  "data": {
+                        "metapix": 48,
+                        "inkbunny": 22
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "metapix": 47,
+                        "inkbunny": 20
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Bongacams": {
+            "externalRequests": {
+                  "amount": 8,
+                  "data": {
+                        "google": 1,
+                        "google-analytics": 2,
+                        "doubleclick": 1,
+                        "gstatic": 1,
+                        "bongacams": 5,
+                        "alexametrics": 1,
+                        "bcrncdn": 80,
+                        "cloudfront": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 8,
+                  "data": {
+                        "google": 1,
+                        "bongacams": 5,
+                        "doubleclick": 1,
+                        "gstatic": 1,
+                        "google-analytics": 2,
+                        "alexametrics": 1,
+                        "bcrncdn": 80,
+                        "cloudfront": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 1
+                  }
+            }
+      },
+      "Flirt4free": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "doubleclick": 1,
+                        "google-analytics": 2,
+                        "iesnare": 2,
+                        "flirt4free": 3,
+                        "gstatic": 2,
+                        "vs4": 3,
+                        "google": 2,
+                        "vscdns": 45,
+                        "videosecrets": 1,
+                        "googleapis": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 9,
+                  "data": {
+                        "doubleclick": 1,
+                        "google-analytics": 2,
+                        "iesnare": 2,
+                        "flirt4free": 3,
+                        "gstatic": 2,
+                        "vs4": 3,
+                        "google": 2,
+                        "vscdns": 44,
+                        "googleapis": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 2
+                  }
+            }
+      },
+      "Oglaf": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "oglaf": 16,
+                        "google-analytics": 2,
+                        "digicert": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "oglaf": 23,
+                        "google-analytics": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Freeones": {
+            "externalRequests": {
+                  "amount": 1,
+                  "data": {
+                        "freeones": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "freeones": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Manhunt": {
+            "externalRequests": {
+                  "amount": 7,
+                  "data": {
+                        "doubleclick": 1,
+                        "bing": 2,
+                        "google-analytics": 4,
+                        "googleapis": 1,
+                        "gstatic": 3,
+                        "google": 1,
+                        "manhunt": 18
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 7,
+                  "data": {
+                        "doubleclick": 1,
+                        "bing": 2,
+                        "google-analytics": 3,
+                        "googleapis": 1,
+                        "gstatic": 3,
+                        "google": 1,
+                        "manhunt": 18
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "bing": 2,
+                        "google": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "bing": 2,
+                        "google": 1
+                  }
+            }
+      },
+      "Cliphunter": {
+            "externalRequests": {
+                  "amount": 4,
+                  "data": {
+                        "cliphunter": 65,
+                        "pichunter": 6,
+                        "google-analytics": 2,
+                        "gexo": 6
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 4,
+                  "data": {
+                        "cliphunter": 64,
+                        "pichunter": 6,
+                        "google-analytics": 2,
+                        "gexo": 6
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Nhentai": {
+            "externalRequests": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Adultwork": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "google-analytics": 2,
+                        "adultwork": 23,
+                        "digicert": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "google-analytics": 2,
+                        "adultwork": 23
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Xnxx": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "xnxx-cdn": 66,
+                        "trafficfactory": 4,
+                        "xnxx": 5
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "xnxx-cdn": 62,
+                        "trafficfactory": 4,
+                        "xnxx": 3
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Vintage-erotica-forum": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "google-analytics": 2,
+                        "theporndude": 2,
+                        "facebook": 2,
+                        "yahooapis": 2,
+                        "amazonaws": 1,
+                        "ato": 12,
+                        "exosrv": 9,
+                        "jquery": 1,
+                        "vintage-erotica-forum": 30,
+                        "fbcdn": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 8,
+                  "data": {
+                        "vintage-erotica-forum": 30,
+                        "facebook": 2,
+                        "yahooapis": 2,
+                        "amazonaws": 1,
+                        "ato": 5,
+                        "jquery": 1,
+                        "theporndude": 1,
+                        "fbcdn": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 4,
+                  "data": {
+                        "facebook": 2,
+                        "amazonaws": 1,
+                        "ato": 5,
+                        "fbcdn": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 5,
+                  "data": {
+                        "facebook": 2,
+                        "amazonaws": 1,
+                        "ato": 12,
+                        "exosrv": 9,
+                        "fbcdn": 1
+                  }
+            }
+      },
+      "Clips4sale": {
+            "externalRequests": {
+                  "amount": 6,
+                  "data": {
+                        "googletagmanager": 1,
+                        "clips4sale": 60,
+                        "google-analytics": 3,
+                        "dropbox": 1,
+                        "alexametrics": 1,
+                        "cloudfront": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "googletagmanager": 1,
+                        "clips4sale": 60,
+                        "google-analytics": 2,
+                        "dropbox": 1,
+                        "alexametrics": 1,
+                        "cloudfront": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Livejasmin": {
+            "externalRequests": {
+                  "amount": 11,
+                  "data": {
+                        "bing": 2,
+                        "livejasmin": 8,
+                        "google-analytics": 3,
+                        "doubleclick": 1,
+                        "gstatic": 1,
+                        "digicert": 2,
+                        "google": 3,
+                        "alexametrics": 1,
+                        "googletagmanager": 1,
+                        "cloudfront": 1,
+                        "dditscdn": 74
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 10,
+                  "data": {
+                        "bing": 2,
+                        "livejasmin": 8,
+                        "google-analytics": 3,
+                        "doubleclick": 1,
+                        "gstatic": 1,
+                        "google": 3,
+                        "alexametrics": 1,
+                        "googletagmanager": 1,
+                        "cloudfront": 1,
+                        "dditscdn": 72
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "bing": 2,
+                        "google": 3
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "bing": 2,
+                        "google": 3
+                  }
+            }
+      },
+      "Imlive": {
+            "externalRequests": {
+                  "amount": 6,
+                  "data": {
+                        "google-analytics": 1,
+                        "googleapis": 3,
+                        "gstatic": 2,
+                        "imlive": 3,
+                        "google": 4,
+                        "cloudfront": 4
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "google": 4,
+                        "googleapis": 3,
+                        "gstatic": 2,
+                        "imlive": 3,
+                        "google-analytics": 1,
+                        "cloudfront": 4
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 4
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 4
+                  }
+            }
+      },
+      "Ftvgirls": {
+            "externalRequests": {
+                  "amount": 9,
+                  "data": {
+                        "google-analytics": 2,
+                        "pinterest": 3,
+                        "googleapis": 1,
+                        "hwcdn": 26,
+                        "twimg": 1,
+                        "ftvgirls": 3,
+                        "google": 9,
+                        "gstatic": 1,
+                        "twitter": 6
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 9,
+                  "data": {
+                        "google-analytics": 2,
+                        "google": 9,
+                        "googleapis": 1,
+                        "hwcdn": 26,
+                        "ftvgirls": 3,
+                        "twimg": 1,
+                        "pinterest": 3,
+                        "gstatic": 1,
+                        "twitter": 6
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "pinterest": 3,
+                        "google": 9,
+                        "twitter": 6
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "google": 9,
+                        "pinterest": 3,
+                        "twitter": 6
+                  }
+            }
+      },
+      "Asexstories": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "asexstories": 6,
+                        "googleapis": 1,
+                        "gstatic": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "asexstories": 7,
+                        "googleapis": 1,
+                        "gstatic": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Iafd": {
+            "externalRequests": {
+                  "amount": 17,
+                  "data": {
+                        "feedburner": 1,
+                        "hotjar": 3,
+                        "google-analytics": 4,
+                        "doubleclick": 1,
+                        "juicyads": 4,
+                        "quantserve": 2,
+                        "cloudfront": 1,
+                        "adultempire": 1,
+                        "iafd": 17,
+                        "chaturbate": 2,
+                        "googleapis": 1,
+                        "gstatic": 2,
+                        "staticflickr": 1,
+                        "quantcount": 2,
+                        "highwebmedia": 11,
+                        "adnium": 2,
+                        "digicert": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 11,
+                  "data": {
+                        "doubleclick": 1,
+                        "iafd": 17,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 2,
+                        "feedburner": 1,
+                        "staticflickr": 1,
+                        "quantserve": 2,
+                        "quantcount": 2,
+                        "cloudfront": 1,
+                        "adultempire": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "quantserve": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 4,
+                  "data": {
+                        "hotjar": 3,
+                        "adnium": 2,
+                        "quantserve": 2,
+                        "juicyads": 4
+                  }
+            }
+      },
+      "Liveleak": {
+            "externalRequests": {
+                  "amount": 49,
+                  "data": {
+                        "scorecardresearch": 2,
+                        "sitescout": 1,
+                        "acuityplatform": 1,
+                        "contextweb": 1,
+                        "quantserve": 4,
+                        "liveleak": 20,
+                        "edgecastcdn": 26,
+                        "bidswitch": 4,
+                        "advertising": 1,
+                        "run-syndicate": 2,
+                        "media6degrees": 1,
+                        "fbcdn": 2,
+                        "adsrvr": 3,
+                        "netmng": 1,
+                        "jquery": 1,
+                        "adnxs": 5,
+                        "ytimg": 1,
+                        "krxd": 1,
+                        "turn": 2,
+                        "outbrain": 1,
+                        "quantcount": 2,
+                        "youtube": 1,
+                        "openx": 11,
+                        "demdex": 2,
+                        "scoota": 2,
+                        "rfihub": 1,
+                        "simpli": 1,
+                        "doubleclick": 6,
+                        "cloudflare": 2,
+                        "tribalfusion": 20,
+                        "bootstrapcdn": 4,
+                        "pubmatic": 13,
+                        "googleapis": 1,
+                        "mathtag": 3,
+                        "outbrainimg": 2,
+                        "google-analytics": 2,
+                        "fontawesome": 4,
+                        "taboola": 1,
+                        "exponential": 1,
+                        "lijit": 36,
+                        "casalemedia": 2,
+                        "google": 1,
+                        "1rx": 1,
+                        "gstatic": 1,
+                        "gumgum": 13,
+                        "facebook": 1,
+                        "digitru": 3,
+                        "runative-syndicate": 6,
+                        "rubiconproject": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 16,
+                  "data": {
+                        "edgecastcdn": 26,
+                        "google-analytics": 2,
+                        "fontawesome": 4,
+                        "quantserve": 2,
+                        "cloudflare": 2,
+                        "liveleak": 20,
+                        "jquery": 1,
+                        "bootstrapcdn": 4,
+                        "ytimg": 1,
+                        "google": 1,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "facebook": 1,
+                        "quantcount": 1,
+                        "youtube": 1,
+                        "fbcdn": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "facebook": 1,
+                        "quantserve": 2,
+                        "youtube": 1,
+                        "google": 1,
+                        "fbcdn": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 25,
+                  "data": {
+                        "rfihub": 1,
+                        "scorecardresearch": 2,
+                        "simpli": 1,
+                        "sitescout": 1,
+                        "acuityplatform": 1,
+                        "contextweb": 1,
+                        "quantserve": 4,
+                        "pubmatic": 13,
+                        "bidswitch": 4,
+                        "facebook": 1,
+                        "advertising": 1,
+                        "fbcdn": 2,
+                        "netmng": 1,
+                        "exponential": 1,
+                        "lijit": 36,
+                        "adnxs": 5,
+                        "casalemedia": 2,
+                        "turn": 2,
+                        "outbrain": 1,
+                        "gumgum": 13,
+                        "google": 1,
+                        "youtube": 1,
+                        "openx": 11,
+                        "taboola": 1,
+                        "rubiconproject": 1
+                  }
+            }
+      },
+      "Nudevista": {
+            "externalRequests": {
+                  "amount": 6,
+                  "data": {
+                        "addthis": 3,
+                        "addthisedge": 1,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "exosrv": 2,
+                        "nudevista": 43
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "addthis": 3,
+                        "addthisedge": 1,
+                        "google-analytics": 1,
+                        "googleapis": 1,
+                        "exosrv": 1,
+                        "nudevista": 43
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "addthis": 3,
+                        "exosrv": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "addthis": 3,
+                        "exosrv": 2
+                  }
+            }
+      },
+      "Streamate": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "googletagmanager": 1,
+                        "google-analytics": 2,
+                        "doubleclick": 2,
+                        "googleadservices": 1,
+                        "google": 4,
+                        "gstatic": 2,
+                        "nsimg": 87,
+                        "air2s": 2,
+                        "streamate": 6,
+                        "googleapis": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 9,
+                  "data": {
+                        "doubleclick": 1,
+                        "googletagmanager": 1,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 2,
+                        "google": 2,
+                        "nsimg": 87,
+                        "air2s": 2,
+                        "streamate": 6
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 2
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 4
+                  }
+            }
+      },
+      "Adam4adam": {
+            "externalRequests": {
+                  "amount": 9,
+                  "data": {
+                        "googletagservices": 1,
+                        "google": 2,
+                        "googleapis": 5,
+                        "doubleclick": 2,
+                        "webvisor": 3,
+                        "adam4adam": 29,
+                        "googlesyndication": 3,
+                        "yandex": 4,
+                        "jsdelivr": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "googleapis": 5,
+                        "webvisor": 2,
+                        "adam4adam": 29,
+                        "googlesyndication": 1,
+                        "yandex": 4,
+                        "jsdelivr": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "yandex": 4
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "yandex": 4,
+                        "google": 2
+                  }
+            }
+      },
+      "Ebaumsworld": {
+            "externalRequests": {
+                  "amount": 31,
+                  "data": {
+                        "pagefair": 6,
+                        "scorecardresearch": 4,
+                        "doubleclick": 3,
+                        "quantserve": 2,
+                        "yimg": 2,
+                        "ebaumsworld": 105,
+                        "googletagservices": 1,
+                        "3lift": 1,
+                        "yahoo": 1,
+                        "complex": 1,
+                        "crazyegg": 1,
+                        "advertising": 5,
+                        "33across": 5,
+                        "amazon-adsystem": 5,
+                        "adnxs": 3,
+                        "google-analytics": 2,
+                        "b2c": 1,
+                        "openx": 4,
+                        "postrelease": 13,
+                        "ad-delivery": 2,
+                        "optimizely": 1,
+                        "civicscience": 2,
+                        "tynt": 11,
+                        "google": 6,
+                        "videoplayerhub": 1,
+                        "facebook": 7,
+                        "quantcount": 1,
+                        "ntv": 1,
+                        "cdnjquery": 1,
+                        "taboola": 3,
+                        "googleapis": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 22,
+                  "data": {
+                        "pagefair": 2,
+                        "scorecardresearch": 4,
+                        "doubleclick": 2,
+                        "taboola": 3,
+                        "ebaumsworld": 106,
+                        "googletagservices": 1,
+                        "googleapis": 1,
+                        "complex": 1,
+                        "crazyegg": 1,
+                        "amazon-adsystem": 5,
+                        "google-analytics": 2,
+                        "b2c": 1,
+                        "ad-delivery": 1,
+                        "optimizely": 1,
+                        "civicscience": 2,
+                        "tynt": 10,
+                        "google": 2,
+                        "videoplayerhub": 1,
+                        "facebook": 7,
+                        "quantcount": 1,
+                        "cdnjquery": 1,
+                        "quantserve": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 10,
+                  "data": {
+                        "pagefair": 2,
+                        "tynt": 10,
+                        "scorecardresearch": 4,
+                        "complex": 1,
+                        "facebook": 7,
+                        "optimizely": 1,
+                        "google": 2,
+                        "taboola": 3,
+                        "quantserve": 2,
+                        "crazyegg": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 16,
+                  "data": {
+                        "pagefair": 6,
+                        "scorecardresearch": 4,
+                        "postrelease": 13,
+                        "optimizely": 1,
+                        "taboola": 3,
+                        "adnxs": 3,
+                        "tynt": 11,
+                        "google": 6,
+                        "yahoo": 1,
+                        "complex": 1,
+                        "crazyegg": 1,
+                        "facebook": 7,
+                        "advertising": 5,
+                        "33across": 5,
+                        "openx": 4,
+                        "quantserve": 2
+                  }
+            }
+      },
+      "Suicidegirls": {
+            "externalRequests": {
+                  "amount": 10,
+                  "data": {
+                        "filepicker": 3,
+                        "adsrvr": 1,
+                        "google": 10,
+                        "googleapis": 2,
+                        "gstatic": 2,
+                        "facebook": 6,
+                        "cloudfront": 72,
+                        "cloudflare": 1,
+                        "suicidegirls": 2,
+                        "google-analytics": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 9,
+                  "data": {
+                        "filepicker": 3,
+                        "google": 10,
+                        "googleapis": 2,
+                        "gstatic": 2,
+                        "facebook": 5,
+                        "google-analytics": 2,
+                        "cloudflare": 1,
+                        "suicidegirls": 2,
+                        "cloudfront": 72
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "facebook": 5,
+                        "google": 10
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 2,
+                  "data": {
+                        "facebook": 6,
+                        "google": 10
+                  }
+            }
+      },
+      "Nifty": {
+            "externalRequests": {
+                  "amount": 4,
+                  "data": {
+                        "nifty": 2,
+                        "google": 2,
+                        "google-analytics": 2,
+                        "doubleclick": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 4,
+                  "data": {
+                        "nifty": 2,
+                        "google-analytics": 2,
+                        "doubleclick": 1,
+                        "digicert": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 2
+                  }
+            }
+      },
+      "Adultdvdempire": {
+            "externalRequests": {
+                  "amount": 6,
+                  "data": {
+                        "adultdvdempire": 15,
+                        "google-analytics": 3,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "doubleclick": 1,
+                        "adultempire": 19
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 6,
+                  "data": {
+                        "adultdvdempire": 15,
+                        "google-analytics": 3,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "doubleclick": 1,
+                        "adultempire": 19
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Cam4": {
+            "externalRequests": {
+                  "amount": 18,
+                  "data": {
+                        "hotjar": 3,
+                        "google-analytics": 3,
+                        "xcdnpro": 144,
+                        "googleadservices": 1,
+                        "visualwebsiteoptimizer": 6,
+                        "snplow": 2,
+                        "awemwh": 30,
+                        "cloudfront": 1,
+                        "doubleclick": 1,
+                        "googletagmanager": 3,
+                        "google": 3,
+                        "awempire": 3,
+                        "gstatic": 1,
+                        "cam4": 23,
+                        "facebook": 7,
+                        "libertystmedia": 27,
+                        "nsimg": 16,
+                        "digicert": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 14,
+                  "data": {
+                        "hotjar": 3,
+                        "google-analytics": 4,
+                        "xcdnpro": 142,
+                        "googleadservices": 1,
+                        "visualwebsiteoptimizer": 6,
+                        "snplow": 2,
+                        "cloudfront": 1,
+                        "doubleclick": 1,
+                        "googletagmanager": 2,
+                        "google": 3,
+                        "gstatic": 1,
+                        "cam4": 17,
+                        "facebook": 7,
+                        "nsimg": 32
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "facebook": 7,
+                        "hotjar": 3,
+                        "google": 3
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "facebook": 7,
+                        "hotjar": 3,
+                        "google": 3
+                  }
+            }
+      },
+      "Mrporngeek": {
+            "externalRequests": {
+                  "amount": 5,
+                  "data": {
+                        "googletagmanager": 1,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "mrporngeek": 28
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 4,
+                  "data": {
+                        "googletagmanager": 1,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "mrporngeek": 28
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Fakku": {
+            "externalRequests": {
+                  "amount": 2,
+                  "data": {
+                        "fakku": 125,
+                        "google-analytics": 2
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "fakku": 127,
+                        "google-analytics": 2
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Faapy": {
+            "externalRequests": {
+                  "amount": 8,
+                  "data": {
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "faapy": 51,
+                        "google": 1,
+                        "wpncdn": 2,
+                        "exosrv": 8,
+                        "exoclick": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 5,
+                  "data": {
+                        "faapy": 50,
+                        "google": 1,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "gstatic": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 1,
+                  "data": {
+                        "google": 1
+                  }
+            },
+            "knownTrackers": {
+                  "amount": 3,
+                  "data": {
+                        "google": 1,
+                        "exosrv": 8,
+                        "exoclick": 1
+                  }
+            }
+      },
+      "Hentai-foundry": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "hentai-foundry": 6
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 3,
+                  "data": {
+                        "googleapis": 1,
+                        "gstatic": 1,
+                        "hentai-foundry": 6
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Xvideos": {
+            "externalRequests": {
+                  "amount": 3,
+                  "data": {
+                        "xvideos": 2,
+                        "trafficfactory": 4,
+                        "xvideos-cdn": 67
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "xvideos": 3,
+                        "xvideos-cdn": 64
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      },
+      "Adultdvdtalk": {
+            "externalRequests": {
+                  "amount": 5,
+                  "data": {
+                        "google-analytics": 2,
+                        "adultdvdtalk": 61,
+                        "google": 2,
+                        "googleapis": 1,
+                        "doubleclick": 1
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 4,
+                  "data": {
+                        "adultdvdtalk": 55,
+                        "google-analytics": 2,
+                        "googleapis": 1,
+                        "doubleclick": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 1,
+                  "data": {
+                        "google": 2
+                  }
+            }
+      },
+      "Asstr": {
+            "externalRequests": {
+                  "amount": 1,
+                  "data": {
+                        "asstr": 5
+                  }
+            },
+            "externalRequestsAdBlocker": {
+                  "amount": 2,
+                  "data": {
+                        "asstr": 5,
+                        "digicert": 1
+                  }
+            },
+            "knownTrackersAdBlocker": {
+                  "amount": 0,
+                  "data": {}
+            },
+            "knownTrackers": {
+                  "amount": 0,
+                  "data": {}
+            }
+      }
+}
