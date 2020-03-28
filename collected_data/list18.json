@@ -3604,19 +3604,8 @@
             }
       },
       "gov": {
-            "externalRequests": {
-                  "handtalk": 1,
-                  "youtube": 4,
-                  "google-analytics": 2,
-                  "doubleclick": 4,
-                  "google": 2
-            },
-            "knownTrackers": {
-                  "youtube": 4,
-                  "google-analytics": 2,
-                  "doubleclick": 4,
-                  "google": 2
-            }
+            "externalRequests": {},
+            "knownTrackers": {}
       },
       "tvinsider": {
             "externalRequests": {
@@ -3789,36 +3778,21 @@
       },
       "com": {
             "externalRequests": {
-                  "googleapis": 5,
-                  "google": 19,
-                  "gstatic": 16,
-                  "google-analytics": 2,
-                  "cloudfront": 2,
-                  "facebook": 5,
-                  "doubleclick": 2,
-                  "amazonaws": 1,
+                  "cdninstagram": 7,
+                  "cloudflare": 1,
+                  "googleapis": 1,
                   "googletagmanager": 1,
-                  "disqus": 3,
-                  "customerlabs": 1,
-                  "sumome": 1,
-                  "licdn": 1,
-                  "disquscdn": 3,
-                  "linkedin": 3,
-                  "sumo": 2
+                  "google": 1,
+                  "adspeed": 2,
+                  "google-analytics": 1,
+                  "purechat": 1
             },
             "knownTrackers": {
-                  "googleapis": 5,
-                  "google": 19,
-                  "gstatic": 16,
-                  "google-analytics": 2,
-                  "cloudfront": 2,
-                  "facebook": 5,
-                  "doubleclick": 2,
-                  "amazonaws": 1,
+                  "googleapis": 1,
                   "googletagmanager": 1,
-                  "disqus": 3,
-                  "licdn": 1,
-                  "linkedin": 3
+                  "google": 1,
+                  "adspeed": 2,
+                  "google-analytics": 1
             }
       },
       "optimalgeek": {
@@ -37421,6 +37395,259 @@
                   "googletagmanager": 1,
                   "gstatic": 4,
                   "google-analytics": 2
+            }
+      },
+      "cvdirectomexico": {
+            "externalRequests": {
+                  "shopify": 144,
+                  "cloudflare": 2,
+                  "googleapis": 5,
+                  "shopoe": 1,
+                  "msecnd": 1,
+                  "google": 8,
+                  "gstatic": 6,
+                  "appmate": 1,
+                  "metaffiliation": 2,
+                  "cloudfront": 1,
+                  "thimatic-apps": 2,
+                  "ontraport": 17,
+                  "sensaimetrics": 4,
+                  "googletagmanager": 1,
+                  "amazonaws": 3,
+                  "veinteractive": 2,
+                  "google-analytics": 3,
+                  "googleadservices": 1,
+                  "taboola": 9,
+                  "doubleclick": 3,
+                  "shopifysvc": 3,
+                  "socialshopwave": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 5,
+                  "google": 8,
+                  "gstatic": 6,
+                  "cloudfront": 1,
+                  "googletagmanager": 1,
+                  "amazonaws": 3,
+                  "google-analytics": 3,
+                  "googleadservices": 1,
+                  "taboola": 9,
+                  "doubleclick": 3
+            }
+      },
+      "desenvolvecursos": {
+            "externalRequests": {
+                  "editmysite": 8,
+                  "googleapis": 6,
+                  "googletagmanager": 2,
+                  "facebook": 4,
+                  "google-analytics": 2,
+                  "gstatic": 3
+            },
+            "knownTrackers": {
+                  "googleapis": 6,
+                  "googletagmanager": 2,
+                  "facebook": 4,
+                  "google-analytics": 2,
+                  "gstatic": 3
+            }
+      },
+      "dicasdecaes": {
+            "externalRequests": {
+                  "googlesyndication": 4,
+                  "demand": 1,
+                  "googleapis": 1,
+                  "wp": 3,
+                  "google": 2,
+                  "doubleclick": 4,
+                  "gstatic": 4,
+                  "googletagservices": 1
+            },
+            "knownTrackers": {
+                  "googlesyndication": 4,
+                  "googleapis": 1,
+                  "wp": 3,
+                  "google": 2,
+                  "doubleclick": 4,
+                  "gstatic": 4,
+                  "googletagservices": 1
+            }
+      },
+      "dicasvestidos": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "googlesyndication": 2,
+                  "gstatic": 3,
+                  "google": 2,
+                  "doubleclick": 3,
+                  "googletagservices": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "googlesyndication": 2,
+                  "gstatic": 3,
+                  "google": 2,
+                  "doubleclick": 3,
+                  "googletagservices": 1
+            }
+      },
+      "downloadlivre": {
+            "externalRequests": {
+                  "googleapis": 2,
+                  "wp": 22,
+                  "gstatic": 4,
+                  "googletagmanager": 1,
+                  "histats": 2,
+                  "facebook": 2,
+                  "disqus": 1,
+                  "google-analytics": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 2,
+                  "wp": 22,
+                  "gstatic": 4,
+                  "googletagmanager": 1,
+                  "histats": 2,
+                  "facebook": 2,
+                  "disqus": 1,
+                  "google-analytics": 2
+            }
+      },
+      "downloadmusicasgratis": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "googletagmanager": 1,
+                  "imgur": 1,
+                  "imgsafe": 2,
+                  "gstatic": 1,
+                  "blogspot": 8,
+                  "google-analytics": 2,
+                  "addtoany": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "googletagmanager": 1,
+                  "gstatic": 1,
+                  "google-analytics": 2
+            }
+      },
+      "ebiografia": {
+            "externalRequests": {
+                  "doubleclick": 5,
+                  "googletagservices": 1,
+                  "7gra": 2,
+                  "googletagmanager": 1,
+                  "google": 9,
+                  "google-analytics": 2,
+                  "googlesyndication": 1
+            },
+            "knownTrackers": {
+                  "doubleclick": 5,
+                  "googletagservices": 1,
+                  "googletagmanager": 1,
+                  "google": 9,
+                  "google-analytics": 2,
+                  "googlesyndication": 1
+            }
+      },
+      "encycolorpedia": {
+            "externalRequests": {
+                  "googletagmanager": 1,
+                  "google-analytics": 2,
+                  "doubleclick": 1,
+                  "google": 2
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1,
+                  "google-analytics": 2,
+                  "doubleclick": 1,
+                  "google": 2
+            }
+      },
+      "enfermagemilustrada": {
+            "externalRequests": {
+                  "wp": 78,
+                  "googleapis": 8,
+                  "jquery": 1,
+                  "googlesyndication": 17,
+                  "googletagmanager": 3,
+                  "google": 18,
+                  "doubleclick": 13,
+                  "gstatic": 20,
+                  "videopress": 2,
+                  "wordpress": 2,
+                  "google-analytics": 11,
+                  "gravatar": 3,
+                  "onesignal": 5,
+                  "facebook": 8,
+                  "youtube": 6,
+                  "ggpht": 1,
+                  "mailchimp": 8,
+                  "ytimg": 1,
+                  "k-analytix": 1,
+                  "igodigital": 2,
+                  "googleadservices": 1,
+                  "getblue": 5,
+                  "taboola": 8,
+                  "googletagservices": 3,
+                  "konduto": 1,
+                  "adnxs": 2,
+                  "list-manage": 1,
+                  "fbcdn": 6
+            },
+            "knownTrackers": {
+                  "wp": 78,
+                  "googleapis": 8,
+                  "googlesyndication": 17,
+                  "googletagmanager": 3,
+                  "google": 18,
+                  "doubleclick": 13,
+                  "gstatic": 20,
+                  "google-analytics": 11,
+                  "gravatar": 3,
+                  "facebook": 8,
+                  "youtube": 6,
+                  "ggpht": 1,
+                  "mailchimp": 8,
+                  "k-analytix": 1,
+                  "googleadservices": 1,
+                  "taboola": 8,
+                  "googletagservices": 3,
+                  "konduto": 1,
+                  "adnxs": 2,
+                  "list-manage": 1,
+                  "fbcdn": 6
+            }
+      },
+      "esbocandoideias": {
+            "externalRequests": {
+                  "sendpulse": 1,
+                  "manychat": 2,
+                  "googleapis": 3,
+                  "sharethis": 5,
+                  "googlesyndication": 2,
+                  "wp": 31,
+                  "consensu": 1,
+                  "google": 2,
+                  "doubleclick": 3,
+                  "mccdn": 1,
+                  "facebook": 7,
+                  "google-analytics": 2,
+                  "getsitecontrol": 5,
+                  "googletagservices": 1
+            },
+            "knownTrackers": {
+                  "sendpulse": 1,
+                  "googleapis": 3,
+                  "sharethis": 5,
+                  "googlesyndication": 2,
+                  "wp": 31,
+                  "google": 2,
+                  "doubleclick": 3,
+                  "facebook": 7,
+                  "google-analytics": 2,
+                  "getsitecontrol": 5,
+                  "googletagservices": 1
             }
       }
 }

@@ -70,43 +70,34 @@
       },
       "co": {
             "externalRequests": {
-                  "webcontentassessor": 1,
-                  "chartbeat": 70,
-                  "crwdcntrl": 2,
-                  "doubleclick": 3,
-                  "adsafeprotected": 3,
-                  "tm-awx": 2,
+                  "thcdn": 94,
+                  "trustpilot": 5,
                   "googletagmanager": 1,
-                  "indexww": 1,
-                  "amazon-adsystem": 3,
-                  "consensu": 9,
-                  "google": 4,
-                  "aswpsdkus": 2,
-                  "google-analytics": 3,
-                  "vdna-assets": 1,
-                  "s-onetag": 5,
-                  "exelator": 4,
-                  "scorecardresearch": 2,
-                  "criteo": 1,
-                  "adsrvr": 1,
-                  "jsdelivr": 1,
-                  "lijit": 3
+                  "recaptcha": 1,
+                  "pingdom": 1,
+                  "gstatic": 4,
+                  "google-analytics": 6,
+                  "dwin1": 1,
+                  "googleadservices": 1,
+                  "criteo": 2,
+                  "sc-static": 1,
+                  "google": 11,
+                  "snapchat": 2,
+                  "facebook": 4,
+                  "creativecdn": 3,
+                  "doubleclick": 6
             },
             "knownTrackers": {
-                  "chartbeat": 70,
-                  "crwdcntrl": 2,
-                  "doubleclick": 3,
-                  "adsafeprotected": 3,
                   "googletagmanager": 1,
-                  "amazon-adsystem": 3,
-                  "google": 4,
-                  "google-analytics": 3,
-                  "vdna-assets": 1,
-                  "exelator": 4,
-                  "scorecardresearch": 2,
-                  "criteo": 1,
-                  "adsrvr": 1,
-                  "lijit": 3
+                  "recaptcha": 1,
+                  "gstatic": 4,
+                  "google-analytics": 6,
+                  "dwin1": 1,
+                  "googleadservices": 1,
+                  "criteo": 2,
+                  "google": 11,
+                  "facebook": 4,
+                  "doubleclick": 6
             }
       },
       "shopjollity": {
@@ -191,30 +182,15 @@
       },
       "com": {
             "externalRequests": {
-                  "googleapis": 5,
-                  "googlesyndication": 17,
-                  "bannersnack": 7,
-                  "googletagmanager": 2,
-                  "google": 4,
-                  "doubleclick": 8,
-                  "gstatic": 10,
-                  "amazonaws": 1,
+                  "googleapis": 2,
                   "facebook": 2,
-                  "consensu": 7,
-                  "googletagservices": 3,
-                  "google-analytics": 2
+                  "vobu": 7,
+                  "google-analytics": 1
             },
             "knownTrackers": {
-                  "googleapis": 5,
-                  "googlesyndication": 17,
-                  "googletagmanager": 2,
-                  "google": 4,
-                  "doubleclick": 8,
-                  "gstatic": 10,
-                  "amazonaws": 1,
+                  "googleapis": 2,
                   "facebook": 2,
-                  "googletagservices": 3,
-                  "google-analytics": 2
+                  "google-analytics": 1
             }
       },
       "tasvirrooz": {
@@ -1762,30 +1738,8 @@
             }
       },
       "edu": {
-            "externalRequests": {
-                  "googleapis": 2,
-                  "monsido": 1,
-                  "googletagmanager": 2,
-                  "gstatic": 2,
-                  "google-analytics": 3,
-                  "licdn": 1,
-                  "facebook": 4,
-                  "site24x7rum": 1,
-                  "doubleclick": 2,
-                  "linkedin": 3,
-                  "google": 4
-            },
-            "knownTrackers": {
-                  "googleapis": 2,
-                  "googletagmanager": 2,
-                  "gstatic": 2,
-                  "google-analytics": 3,
-                  "licdn": 1,
-                  "facebook": 4,
-                  "doubleclick": 2,
-                  "linkedin": 3,
-                  "google": 4
-            }
+            "externalRequests": {},
+            "knownTrackers": {}
       },
       "ragan": {
             "externalRequests": {
@@ -1970,23 +1924,8 @@
             }
       },
       "gov": {
-            "externalRequests": {
-                  "googleapis": 1,
-                  "google-analytics": 3,
-                  "youtube": 6,
-                  "doubleclick": 4,
-                  "ggpht": 1,
-                  "ytimg": 1,
-                  "gstatic": 1
-            },
-            "knownTrackers": {
-                  "googleapis": 1,
-                  "google-analytics": 3,
-                  "youtube": 6,
-                  "doubleclick": 4,
-                  "ggpht": 1,
-                  "gstatic": 1
-            }
+            "externalRequests": {},
+            "knownTrackers": {}
       },
       "airtime": {
             "externalRequests": {
@@ -47389,6 +47328,901 @@
                   "googleadservices": 1,
                   "google": 24,
                   "yahoo": 1
+            }
+      },
+      "mrsu": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "google-analytics": 2,
+                  "sputnik": 4
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "google-analytics": 2,
+                  "sputnik": 4
+            }
+      },
+      "edwise": {
+            "externalRequests": {
+                  "googleapis": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1
+            }
+      },
+      "so-rummet": {
+            "externalRequests": {
+                  "googletagmanager": 1,
+                  "fontawesome": 2,
+                  "googletagservices": 1,
+                  "addtoany": 4,
+                  "google": 4,
+                  "doubleclick": 2,
+                  "google-analytics": 2
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1,
+                  "googletagservices": 1,
+                  "google": 4,
+                  "doubleclick": 2,
+                  "google-analytics": 2
+            }
+      },
+      "bluegriffon": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "gstatic": 2,
+                  "sendowl": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "gstatic": 2
+            }
+      },
+      "neverware": {
+            "externalRequests": {
+                  "typekit": 2,
+                  "googleapis": 4,
+                  "squarespace": 17,
+                  "squarespace-cdn": 11,
+                  "pdmntn": 1,
+                  "wistia": 10,
+                  "pardot": 4,
+                  "gstatic": 6,
+                  "licdn": 1,
+                  "googletagmanager": 1,
+                  "linkedin": 3,
+                  "google-analytics": 2,
+                  "googleadservices": 1,
+                  "ads-twitter": 1,
+                  "bing": 2,
+                  "facebook": 3,
+                  "doubleclick": 2,
+                  "google": 4,
+                  "akamaihd": 2,
+                  "litix": 1
+            },
+            "knownTrackers": {
+                  "typekit": 2,
+                  "googleapis": 4,
+                  "pardot": 4,
+                  "gstatic": 6,
+                  "licdn": 1,
+                  "googletagmanager": 1,
+                  "linkedin": 3,
+                  "google-analytics": 2,
+                  "googleadservices": 1,
+                  "ads-twitter": 1,
+                  "bing": 2,
+                  "facebook": 3,
+                  "doubleclick": 2,
+                  "google": 4
+            }
+      },
+      "fmza": {
+            "externalRequests": {
+                  "jquery": 1
+            },
+            "knownTrackers": {}
+      },
+      "daebakdrama": {
+            "externalRequests": {
+                  "googleapis": 3,
+                  "googletagmanager": 1,
+                  "zencdn": 3,
+                  "siteswithcontent": 1,
+                  "inpagepush": 2,
+                  "teads": 11,
+                  "pushsar": 6,
+                  "mgid": 5,
+                  "google-analytics": 2,
+                  "disqus": 1,
+                  "rtmark": 2,
+                  "doubleclick": 3,
+                  "offerimage": 1,
+                  "scorecardresearch": 5,
+                  "steepto": 3,
+                  "adsrvr": 3,
+                  "everesttech": 2,
+                  "bidswitch": 2,
+                  "bluekai": 1,
+                  "agkn": 1,
+                  "rlcdn": 2,
+                  "exelator": 2,
+                  "krxd": 1,
+                  "retargetly": 1,
+                  "pippio": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 3,
+                  "googletagmanager": 1,
+                  "teads": 11,
+                  "google-analytics": 2,
+                  "disqus": 1,
+                  "doubleclick": 3,
+                  "scorecardresearch": 5,
+                  "adsrvr": 3,
+                  "everesttech": 2,
+                  "bidswitch": 2,
+                  "bluekai": 1,
+                  "agkn": 1,
+                  "rlcdn": 2,
+                  "exelator": 2,
+                  "krxd": 1,
+                  "pippio": 1
+            }
+      },
+      "searchmine": {
+            "externalRequests": {
+                  "google-analytics": 2,
+                  "doubleclick": 1
+            },
+            "knownTrackers": {
+                  "google-analytics": 2,
+                  "doubleclick": 1
+            }
+      },
+      "wpp": {
+            "externalRequests": {
+                  "googletagmanager": 1
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1
+            }
+      },
+      "fmscout": {
+            "externalRequests": {
+                  "network-n": 1,
+                  "sumome": 1,
+                  "izooto": 3,
+                  "googleapis": 1,
+                  "googlesyndication": 6,
+                  "youtube": 4,
+                  "db-ip": 1,
+                  "google": 3,
+                  "doubleclick": 10,
+                  "consensu": 1,
+                  "jsdelivr": 1,
+                  "sumo": 9,
+                  "buysellads": 1,
+                  "scorecardresearch": 3,
+                  "amazon-adsystem": 3,
+                  "bkrtx": 1,
+                  "bluekai": 1,
+                  "google-analytics": 2,
+                  "googletagservices": 1,
+                  "ampproject": 7
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "googlesyndication": 6,
+                  "youtube": 4,
+                  "google": 3,
+                  "doubleclick": 10,
+                  "buysellads": 1,
+                  "scorecardresearch": 3,
+                  "amazon-adsystem": 3,
+                  "bkrtx": 1,
+                  "bluekai": 1,
+                  "google-analytics": 2,
+                  "googletagservices": 1
+            }
+      },
+      "bankingbux": {
+            "externalRequests": {
+                  "googleapis": 3,
+                  "adhitzads": 8,
+                  "bitcoinptc": 1,
+                  "superpay": 1,
+                  "google-analytics": 2,
+                  "gstatic": 3,
+                  "a-ads": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 3,
+                  "google-analytics": 2,
+                  "gstatic": 3
+            }
+      },
+      "tuugo": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "google": 5,
+                  "yandex": 4,
+                  "google-analytics": 4,
+                  "doubleclick": 2,
+                  "gstatic": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "google": 5,
+                  "yandex": 4,
+                  "google-analytics": 4,
+                  "doubleclick": 2,
+                  "gstatic": 1
+            }
+      },
+      "browsec": {
+            "externalRequests": {
+                  "paddle": 3,
+                  "google-analytics": 3,
+                  "zdassets": 3,
+                  "zendesk": 1
+            },
+            "knownTrackers": {
+                  "google-analytics": 3,
+                  "zendesk": 1
+            }
+      },
+      "ambitojuridico": {
+            "externalRequests": {
+                  "google": 3,
+                  "rawgit": 1,
+                  "cloudflare": 2,
+                  "addtoany": 3,
+                  "gstatic": 1,
+                  "soundcloud": 5,
+                  "sndcdn": 21,
+                  "googletagmanager": 1,
+                  "facebook": 48,
+                  "google-analytics": 2,
+                  "hotjar": 1,
+                  "doubleclick": 1
+            },
+            "knownTrackers": {
+                  "google": 3,
+                  "gstatic": 1,
+                  "googletagmanager": 1,
+                  "facebook": 48,
+                  "google-analytics": 2,
+                  "hotjar": 1,
+                  "doubleclick": 1
+            }
+      },
+      "sasapost": {
+            "externalRequests": {
+                  "googletagmanager": 2,
+                  "googleapis": 4,
+                  "twitter": 3,
+                  "cloudfront": 1,
+                  "oneall": 5,
+                  "facebook": 1,
+                  "google": 1,
+                  "google-analytics": 3,
+                  "alexametrics": 1,
+                  "oneallcdn": 2,
+                  "mouseflow": 2,
+                  "cloudflare": 1
+            },
+            "knownTrackers": {
+                  "googletagmanager": 2,
+                  "googleapis": 4,
+                  "twitter": 3,
+                  "cloudfront": 1,
+                  "facebook": 1,
+                  "google": 1,
+                  "google-analytics": 3,
+                  "alexametrics": 1,
+                  "mouseflow": 2
+            }
+      },
+      "paiza": {
+            "externalRequests": {},
+            "knownTrackers": {}
+      },
+      "trecebits": {
+            "externalRequests": {
+                  "clickiocdn": 20,
+                  "googleapis": 1,
+                  "taboola": 2,
+                  "gravatar": 5,
+                  "gstatic": 3,
+                  "google-analytics": 2,
+                  "consensu": 6,
+                  "scorecardresearch": 3,
+                  "googletagservices": 1,
+                  "google": 2,
+                  "doubleclick": 1,
+                  "amazon-adsystem": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "taboola": 2,
+                  "gravatar": 5,
+                  "gstatic": 3,
+                  "google-analytics": 2,
+                  "scorecardresearch": 3,
+                  "googletagservices": 1,
+                  "google": 2,
+                  "doubleclick": 1,
+                  "amazon-adsystem": 2
+            }
+      },
+      "zimmo": {
+            "externalRequests": {
+                  "sentry-cdn": 1,
+                  "googletagmanager": 1,
+                  "perfdrive": 5,
+                  "hotjar": 1,
+                  "googleadservices": 1,
+                  "doubleclick": 4,
+                  "google-analytics": 2,
+                  "google": 5,
+                  "facebook": 3
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1,
+                  "hotjar": 1,
+                  "googleadservices": 1,
+                  "doubleclick": 4,
+                  "google-analytics": 2,
+                  "google": 5,
+                  "facebook": 3
+            }
+      },
+      "parsvideos": {
+            "externalRequests": {
+                  "google-analytics": 2,
+                  "yektanet": 22
+            },
+            "knownTrackers": {
+                  "google-analytics": 2
+            }
+      },
+      "mymarketing360": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "google": 3,
+                  "google-analytics": 2,
+                  "doubleclick": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "google": 3,
+                  "google-analytics": 2,
+                  "doubleclick": 1
+            }
+      },
+      "prezna": {
+            "externalRequests": {
+                  "googleapis": 2,
+                  "wistia": 9,
+                  "googletagmanager": 1,
+                  "google-analytics": 2,
+                  "akamaihd": 1,
+                  "litix": 1
+            },
+            "knownTrackers": {
+                  "googleapis": 2,
+                  "googletagmanager": 1,
+                  "google-analytics": 2
+            }
+      },
+      "haip": {
+            "externalRequests": {
+                  "googlesyndication": 2,
+                  "googletagmanager": 1,
+                  "gravitec": 5,
+                  "yandex": 5,
+                  "google": 2,
+                  "doubleclick": 2,
+                  "googleapis": 1,
+                  "google-analytics": 2,
+                  "mail": 2,
+                  "googletagservices": 1
+            },
+            "knownTrackers": {
+                  "googlesyndication": 2,
+                  "googletagmanager": 1,
+                  "yandex": 5,
+                  "google": 2,
+                  "doubleclick": 2,
+                  "googleapis": 1,
+                  "google-analytics": 2,
+                  "mail": 2,
+                  "googletagservices": 1
+            }
+      },
+      "exonhost": {
+            "externalRequests": {
+                  "googleapis": 2,
+                  "getsitecontrol": 2,
+                  "help": 11
+            },
+            "knownTrackers": {
+                  "googleapis": 2,
+                  "getsitecontrol": 2
+            }
+      },
+      "tiklagelsin": {
+            "externalRequests": {
+                  "facebook": 6,
+                  "googletagmanager": 1,
+                  "hotjar": 2,
+                  "google-analytics": 3,
+                  "googleadservices": 1,
+                  "doubleclick": 3,
+                  "google": 8
+            },
+            "knownTrackers": {
+                  "facebook": 6,
+                  "googletagmanager": 1,
+                  "hotjar": 2,
+                  "google-analytics": 3,
+                  "googleadservices": 1,
+                  "doubleclick": 3,
+                  "google": 8
+            }
+      },
+      "arata": {
+            "externalRequests": {
+                  "shopify": 49,
+                  "googleapis": 1,
+                  "klaviyo": 2,
+                  "expertvillagemedia": 3,
+                  "searchtap": 1,
+                  "polyfill": 1,
+                  "googletagmanager": 2,
+                  "bytedance": 1,
+                  "loox": 1,
+                  "artfut": 3,
+                  "hotjar": 1,
+                  "bootstrapcdn": 3,
+                  "cloudflare": 1,
+                  "webengage": 7,
+                  "omgpm": 1,
+                  "ipstatp": 2,
+                  "googleadservices": 1,
+                  "facebook": 4,
+                  "google-analytics": 2,
+                  "doubleclick": 5,
+                  "cloudfront": 1,
+                  "google": 10,
+                  "cdninstagram": 8,
+                  "fbcdn": 1,
+                  "cloudinary": 1,
+                  "shopifysvc": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "googletagmanager": 2,
+                  "hotjar": 1,
+                  "googleadservices": 1,
+                  "facebook": 4,
+                  "google-analytics": 2,
+                  "doubleclick": 5,
+                  "cloudfront": 1,
+                  "google": 10,
+                  "fbcdn": 1
+            }
+      },
+      "articlesearchnet": {
+            "externalRequests": {
+                  "infolinks": 16,
+                  "googlesyndication": 8,
+                  "tqlkg": 1,
+                  "alexa": 1,
+                  "yceml": 1,
+                  "google": 3,
+                  "doubleclick": 11,
+                  "ebay": 2,
+                  "googletagservices": 2,
+                  "gstatic": 3,
+                  "googleapis": 2,
+                  "rubiconproject": 2,
+                  "pubmatic": 31,
+                  "tynt": 1,
+                  "adnxs": 5,
+                  "1rx": 2,
+                  "33across": 1,
+                  "sonobi": 1,
+                  "zemanta": 2,
+                  "lijit": 2,
+                  "advertising": 1,
+                  "casalemedia": 5,
+                  "yahoo": 2,
+                  "adsrvr": 3,
+                  "eyeviewads": 1,
+                  "sitescout": 2,
+                  "tribalfusion": 4,
+                  "rfihub": 3,
+                  "adform": 4,
+                  "mathtag": 4,
+                  "de17a": 2,
+                  "bidswitch": 3,
+                  "bidtheatre": 1,
+                  "adition": 1,
+                  "bidr": 2,
+                  "simpli": 2,
+                  "taboola": 1,
+                  "erne": 1,
+                  "contextweb": 1,
+                  "widespace": 1,
+                  "adhigh": 2,
+                  "serverbid": 1,
+                  "brealtime": 1,
+                  "w55c": 1,
+                  "turn": 1,
+                  "quantserve": 1,
+                  "avocet": 2,
+                  "everesttech": 2,
+                  "dotomi": 1,
+                  "ipredictive": 1,
+                  "gumgum": 1,
+                  "gwallet": 1,
+                  "tapad": 2
+            },
+            "knownTrackers": {
+                  "infolinks": 16,
+                  "googlesyndication": 8,
+                  "tqlkg": 1,
+                  "alexa": 1,
+                  "yceml": 1,
+                  "google": 3,
+                  "doubleclick": 11,
+                  "ebay": 2,
+                  "googletagservices": 2,
+                  "gstatic": 3,
+                  "googleapis": 2,
+                  "rubiconproject": 2,
+                  "pubmatic": 31,
+                  "tynt": 1,
+                  "adnxs": 5,
+                  "1rx": 2,
+                  "33across": 1,
+                  "sonobi": 1,
+                  "zemanta": 2,
+                  "lijit": 2,
+                  "advertising": 1,
+                  "casalemedia": 5,
+                  "yahoo": 2,
+                  "adsrvr": 3,
+                  "eyeviewads": 1,
+                  "sitescout": 2,
+                  "tribalfusion": 4,
+                  "rfihub": 3,
+                  "adform": 4,
+                  "mathtag": 4,
+                  "de17a": 2,
+                  "bidswitch": 3,
+                  "adition": 1,
+                  "simpli": 2,
+                  "taboola": 1,
+                  "contextweb": 1,
+                  "adhigh": 2,
+                  "brealtime": 1,
+                  "w55c": 1,
+                  "turn": 1,
+                  "quantserve": 1,
+                  "avocet": 2,
+                  "everesttech": 2,
+                  "dotomi": 1,
+                  "ipredictive": 1,
+                  "gumgum": 1,
+                  "gwallet": 1,
+                  "tapad": 2
+            }
+      },
+      "bloggingfusion": {
+            "externalRequests": {
+                  "gstatic": 4,
+                  "google-analytics": 2
+            },
+            "knownTrackers": {
+                  "gstatic": 4,
+                  "google-analytics": 2
+            }
+      },
+      "evolvingcritic": {
+            "externalRequests": {
+                  "googlesyndication": 11,
+                  "alexa": 1,
+                  "pakranks": 1,
+                  "linkmysite": 1,
+                  "statcounter": 2,
+                  "google": 4,
+                  "doubleclick": 8,
+                  "googletagservices": 2,
+                  "googleapis": 2,
+                  "gstatic": 2
+            },
+            "knownTrackers": {
+                  "googlesyndication": 11,
+                  "alexa": 1,
+                  "statcounter": 2,
+                  "google": 4,
+                  "doubleclick": 8,
+                  "googletagservices": 2,
+                  "googleapis": 2,
+                  "gstatic": 2
+            }
+      },
+      "filmywap": {
+            "externalRequests": {},
+            "knownTrackers": {}
+      },
+      "madeeasy": {
+            "externalRequests": {
+                  "co": 1,
+                  "googleapis": 6,
+                  "googletagmanager": 1,
+                  "netcoresmartech": 5,
+                  "gstatic": 12,
+                  "hotjar": 1,
+                  "googleadservices": 1,
+                  "google-analytics": 2,
+                  "facebook": 4,
+                  "quora": 2,
+                  "doubleclick": 2,
+                  "google": 4
+            },
+            "knownTrackers": {
+                  "co": 1,
+                  "googleapis": 6,
+                  "googletagmanager": 1,
+                  "gstatic": 12,
+                  "hotjar": 1,
+                  "googleadservices": 1,
+                  "google-analytics": 2,
+                  "facebook": 4,
+                  "doubleclick": 2,
+                  "google": 4
+            }
+      },
+      "propellerdir": {
+            "externalRequests": {
+                  "googleapis": 4,
+                  "cloudflare": 2,
+                  "googletagmanager": 1,
+                  "googlesyndication": 24,
+                  "google": 7,
+                  "doubleclick": 20,
+                  "google-analytics": 2,
+                  "googletagservices": 3,
+                  "gstatic": 4,
+                  "quantserve": 1,
+                  "mookie1": 1,
+                  "openx": 2,
+                  "pubmatic": 2,
+                  "rubiconproject": 1,
+                  "casalemedia": 2,
+                  "gemius": 1,
+                  "youtube": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 4,
+                  "googletagmanager": 1,
+                  "googlesyndication": 24,
+                  "google": 7,
+                  "doubleclick": 20,
+                  "google-analytics": 2,
+                  "googletagservices": 3,
+                  "gstatic": 4,
+                  "quantserve": 1,
+                  "mookie1": 1,
+                  "openx": 2,
+                  "pubmatic": 2,
+                  "rubiconproject": 1,
+                  "casalemedia": 2,
+                  "gemius": 1,
+                  "youtube": 2
+            }
+      },
+      "sarkari-naukri": {
+            "externalRequests": {
+                  "cloudflare": 1
+            },
+            "knownTrackers": {}
+      },
+      "so": {
+            "externalRequests": {},
+            "knownTrackers": {}
+      },
+      "ungm": {
+            "externalRequests": {
+                  "googleapis": 1,
+                  "gstatic": 1,
+                  "google-analytics": 2,
+                  "doubleclick": 1,
+                  "google": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 1,
+                  "gstatic": 1,
+                  "google-analytics": 2,
+                  "doubleclick": 1,
+                  "google": 2
+            }
+      },
+      "stelladot": {
+            "externalRequests": {
+                  "intellimize": 1,
+                  "google-analytics": 2
+            },
+            "knownTrackers": {
+                  "google-analytics": 2
+            }
+      },
+      "countries-ofthe-world": {
+            "externalRequests": {},
+            "knownTrackers": {}
+      },
+      "marieclairearabia": {
+            "externalRequests": {
+                  "google-analytics": 9,
+                  "googletagservices": 1,
+                  "crwdcntrl": 1,
+                  "facebook": 7,
+                  "google": 4,
+                  "doubleclick": 15,
+                  "googlesyndication": 1
+            },
+            "knownTrackers": {
+                  "google-analytics": 9,
+                  "googletagservices": 1,
+                  "crwdcntrl": 1,
+                  "facebook": 7,
+                  "google": 4,
+                  "doubleclick": 15,
+                  "googlesyndication": 1
+            }
+      },
+      "shirazwebhost": {
+            "externalRequests": {
+                  "samandehi": 1
+            },
+            "knownTrackers": {}
+      },
+      "power": {
+            "externalRequests": {
+                  "power-cdn": 17,
+                  "typography": 1,
+                  "googletagmanager": 1,
+                  "zdassets": 8,
+                  "richrelevance": 1,
+                  "google-analytics": 9,
+                  "adservicemedia": 2,
+                  "cloudfront": 2,
+                  "doubleclick": 1,
+                  "frosmo": 13,
+                  "google": 2,
+                  "zendesk": 9,
+                  "zopim": 7
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1,
+                  "richrelevance": 1,
+                  "google-analytics": 9,
+                  "cloudfront": 2,
+                  "doubleclick": 1,
+                  "google": 2,
+                  "zendesk": 9,
+                  "zopim": 7
+            }
+      },
+      "omanair": {
+            "externalRequests": {
+                  "onesignal": 3,
+                  "googleapis": 3,
+                  "bootstrapcdn": 2,
+                  "googletagmanager": 1,
+                  "google": 9,
+                  "cloudflare": 1,
+                  "maxymiser": 3,
+                  "ip-api": 1,
+                  "google-analytics": 5,
+                  "googleadservices": 1,
+                  "veinteractive": 8,
+                  "facebook": 1,
+                  "bkrtx": 1,
+                  "doubleclick": 7,
+                  "bluekai": 1,
+                  "gstatic": 9,
+                  "volvelle": 2,
+                  "bidswitch": 2
+            },
+            "knownTrackers": {
+                  "googleapis": 3,
+                  "googletagmanager": 1,
+                  "google": 9,
+                  "maxymiser": 3,
+                  "google-analytics": 5,
+                  "googleadservices": 1,
+                  "facebook": 1,
+                  "bkrtx": 1,
+                  "doubleclick": 7,
+                  "bluekai": 1,
+                  "gstatic": 9,
+                  "bidswitch": 2
+            }
+      },
+      "holographictraders": {
+            "externalRequests": {
+                  "wp": 11,
+                  "googletagmanager": 1,
+                  "gravatar": 3,
+                  "dolphintrader": 4,
+                  "google-analytics": 2
+            },
+            "knownTrackers": {
+                  "wp": 11,
+                  "googletagmanager": 1,
+                  "gravatar": 3,
+                  "google-analytics": 2
+            }
+      },
+      "spinningline": {
+            "externalRequests": {
+                  "googletagmanager": 2,
+                  "yandex": 17,
+                  "google-analytics": 3,
+                  "yastatic": 1,
+                  "doubleclick": 4,
+                  "google": 6,
+                  "googlesyndication": 2,
+                  "top100": 1,
+                  "openstat": 2,
+                  "vk": 1,
+                  "yadro": 2
+            },
+            "knownTrackers": {
+                  "googletagmanager": 2,
+                  "yandex": 17,
+                  "google-analytics": 3,
+                  "doubleclick": 4,
+                  "google": 6,
+                  "googlesyndication": 2,
+                  "openstat": 2,
+                  "vk": 1,
+                  "yadro": 2
+            }
+      },
+      "authoritytattoo": {
+            "externalRequests": {
+                  "adthrive": 2,
+                  "cloudfront": 31,
+                  "amazon-adsystem": 4,
+                  "gstatic": 9,
+                  "google-analytics": 2,
+                  "doubleclick": 1,
+                  "geoip-db": 1
+            },
+            "knownTrackers": {
+                  "cloudfront": 31,
+                  "amazon-adsystem": 4,
+                  "gstatic": 9,
+                  "google-analytics": 2,
+                  "doubleclick": 1
+            }
+      },
+      "mkvmoviesking": {
+            "externalRequests": {
+                  "googletagmanager": 1,
+                  "madcpms": 2,
+                  "remarketingpixel": 1
+            },
+            "knownTrackers": {
+                  "googletagmanager": 1
             }
       }
 }
