@@ -1,0 +1,34 @@
+{
+  "google": {
+    "externalRequests": {
+      "gstatic": 4
+    },
+    "knownTrackers": {
+      "gstatic": 4
+    }
+  },
+  "youtube": {
+    "externalRequests": {
+      "ytimg": 17,
+      "googleapis": 3,
+      "ggpht": 11,
+      "google": 3,
+      "gstatic": 5,
+      "doubleclick": 2
+    },
+    "knownTrackers": {
+      "googleapis": 3,
+      "ggpht": 11,
+      "google": 3,
+      "gstatic": 5,
+      "doubleclick": 2
+    }
+  },
+  "baidu": {
+    "externalRequests": {
+      "bdimg": 4,
+      "bdstatic": 10
+    },
+    "knownTrackers": {}
+  }
+}

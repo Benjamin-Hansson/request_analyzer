@@ -161,16 +161,16 @@ class DataAnalyze:
             ]
 
             amazon_resource = [
-      "amazon",
-      "alexa",
-      "amazonaws"
-      "amazon",
-      "amazon-adsystem",
-      "amazon",
-      "alexametrics",
-      "cloudfront",
-      "amazonaws"
-    ]
+              "amazon",
+              "alexa",
+              "amazonaws"
+              "amazon",
+              "amazon-adsystem",
+              "amazon",
+              "alexametrics",
+              "cloudfront",
+              "amazonaws"
+            ]
 
             counter = 0
             amount = 0
